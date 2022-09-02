@@ -1,8 +1,8 @@
 
 <items>
     <item>
-        <id>1</id>
-        <cat>1. TVHUB Applications </cat>
+        <id>2</id>
+        <cat>1. TVHUB VOD </cat>
         <name>XCIPTV v5.0.1</name>
         <source>https://nwgroup.net/downloads/XCIPTV_5.0.1-Global.apk</source>
         <imge>https://i.imgur.com/aQbJeCu.png</imge>
@@ -12,11 +12,11 @@
         <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1Ob3YtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICBbODIuMm1iXSBXaXRoIElQVFYgU21hcnRlcnMgUHJvIHlvdSBjYW4gd2F0Y2ggTGl2ZSwgTW92aWVzLCBTZXJpZXMsIGFuZCBUViBDYXR1cCBmcm9tIElQVFYgU2VydmljZSBQcm92aWRlciBvbiBBbmRyb2lkIFBob25lLCBBbmRyb2lkIEJveGVzLCBGaXJlIFRWIFN0aWNrcywgTnZpZGlhIFNoaWVsZCBUVi4=</base64>
     </item>
     <item>
-        <id>2</id>
-        <cat>2. TVHUB</cat>
+        <id>1</id>
+        <cat>1. TVHUB</cat>
         <name>Smarters v3</name>
-        <source>https://www.dropbox.com/s/85n3o9ttyh2iimc/TVHUB.apk?dl=0</source>
-        <imge>file:///D:/APK%20SCHOOL/TVHUB/Icons/ic_launcher.png</imge>
+        <source>https://cheapsales4u.com/apps/tvhub.apk?dl=0</source>
+        <imge>https://cheapsales4u.com/icons/ic_launcherwhite.png</imge>
         <desc>Updated: 02-Sep-2021      [97.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. Movies, Series, and TV Catup from IPTV Service Provider.</desc>
         <vers></vers>
         <vidz></vidz>
