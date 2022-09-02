@@ -1,7 +1,139 @@
-
 <items>
-           <id>0</id>
-        <cat>1. XCIPTV Player</cat>
+    <item>
+        <id>1</id>
+        <cat>1. Global Applications</cat>
+        <name>Smarters v3.1.2</name>
+        <source>https://nwgroup.net/downloads/Smarters_3.1.2-Global.apk</source>
+        <imge>https://i.imgur.com/UY5klia.png</imge>
+        <desc>Updated: 02-Nov-2021      [82.2mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1Ob3YtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICBbODIuMm1iXSBXaXRoIElQVFYgU21hcnRlcnMgUHJvIHlvdSBjYW4gd2F0Y2ggTGl2ZSwgTW92aWVzLCBTZXJpZXMsIGFuZCBUViBDYXR1cCBmcm9tIElQVFYgU2VydmljZSBQcm92aWRlciBvbiBBbmRyb2lkIFBob25lLCBBbmRyb2lkIEJveGVzLCBGaXJlIFRWIFN0aWNrcywgTnZpZGlhIFNoaWVsZCBUVi4=</base64>
+    </item>
+    <item>
+        <id>2</id>
+        <cat>1. Global Applications</cat>
+        <name>XCIPTV v5.0.1</name>
+        <source>https://nwgroup.net/downloads/XCIPTV_5.0.1-Global.apk</source>
+        <imge>https://i.imgur.com/aQbJeCu.png</imge>
+        <desc>Updated: 02-Sep-2021      [97.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. XCIPTV comes with two built-in Media Players with Adaptive HLS Streaming. No 3rd party apps or players are required. Simple UI design for easy navigation.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1TZXAtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzk3LjBtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
+    </item>
+    <item>
+        <id>3</id>
+        <cat>2. Recommended Players</cat>
+        <name>iMPlayer v1.8.1.3</name>
+        <source>https://nwgroup.net/downloads/iMPlayer_1.8.1.3.apk</source>
+        <imge>https://play-lh.googleusercontent.com/HV7ok5otTZZ_mQ5m-B2_VES6yNHNz_dPsWfGVBYOSVsInF8-zUeJgH12Kd5tsESF3NQn=s150-rw</imge>
+        <desc>Updated: 14-Feb-2021      [34.0mb] iMPlayer was developed to be the ultimate IPTV player, with unbeatable interface, smoothness and features that will put other apps to shame.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxMi1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzM0LjBtYl0gaU1QbGF5ZXIgd2FzIGRldmVsb3BlZCB0byBiZSB0aGUgdWx0aW1hdGUgSVBUViBwbGF5ZXIsIHdpdGggdW5iZWF0YWJsZSBpbnRlcmZhY2UsIHNtb290aG5lc3MgYW5kIGZlYXR1cmVzIHRoYXQgd2lsbCBwdXQgb3RoZXIgYXBwcyB0byBzaGFtZS4=</base64>
+    </item>
+    <item>
+        <id>4</id>
+        <cat>2. Recommended Players</cat>
+        <name>IPTV Smarters Pro v3.1.2</name>
+        <source>https://nwgroup.net/downloads/IPTV_Smarters_Pro_3.1.2.apk</source>
+        <imge>https://i.imgur.com/K22qDGn.png</imge>
+        <desc>Updated: 02-Nov-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1Ob3YtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICBbNjkuOG1iXSBXaXRoIElQVFYgU21hcnRlcnMgUHJvIHlvdSBjYW4gd2F0Y2ggTGl2ZSwgTW92aWVzLCBTZXJpZXMsIGFuZCBUViBDYXR1cCBmcm9tIElQVFYgU2VydmljZSBQcm92aWRlciBvbiBBbmRyb2lkIFBob25lLCBBbmRyb2lkIEJveGVzLCBGaXJlIFRWIFN0aWNrcywgTnZpZGlhIFNoaWVsZCBUVi4=</base64>
+    </item>
+    <item>
+        <id>5</id>
+        <cat>2. Recommended Players</cat>
+        <name>XCIPTV Player v5.0.1</name>
+        <source>https://nwgroup.net/downloads/XCIPTV_5.0.1-Clean.apk</source>
+        <imge>https://i.imgur.com/T2wF1HS.png</imge>
+        <desc>Updated: 23-Apr-2021      [88.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. XCIPTV comes with two built-in Media Players with Adaptive HLS Streaming. No 3rd party apps or players are required. Simple UI design for easy navigation. XCIPTV is using ExoPlayer and VLC Player. Easy to navigate using Android TV Remote and Dpad. This app can be installed on Android Phone, Tablet and TV.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAyMy1BcHItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzg4LjBtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLiBYQ0lQVFYgaXMgdXNpbmcgRXhvUGxheWVyIGFuZCBWTEMgUGxheWVyLiBFYXN5IHRvIG5hdmlnYXRlIHVzaW5nIEFuZHJvaWQgVFYgUmVtb3RlIGFuZCBEcGFkLiBUaGlzIGFwcCBjYW4gYmUgaW5zdGFsbGVkIG9uIEFuZHJvaWQgUGhvbmUsIFRhYmxldCBhbmQgVFYu</base64>
+    </item>
+    <item>
+        <id>6</id>
+        <cat>3. IPTV Smarters Pro</cat>
+        <name>Default v3.1.2 (Recommended)</name>
+        <source>https://nwgroup.net/downloads/IPTV_Smarters_Pro_3.1.2.apk</source>
+        <imge>https://i.imgur.com/K22qDGn.png</imge>
+        <desc>Updated: 02-Nov-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1Ob3YtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICBbNjkuOG1iXSBXaXRoIElQVFYgU21hcnRlcnMgUHJvIHlvdSBjYW4gd2F0Y2ggTGl2ZSwgTW92aWVzLCBTZXJpZXMsIGFuZCBUViBDYXR1cCBmcm9tIElQVFYgU2VydmljZSBQcm92aWRlciBvbiBBbmRyb2lkIFBob25lLCBBbmRyb2lkIEJveGVzLCBGaXJlIFRWIFN0aWNrcywgTnZpZGlhIFNoaWVsZCBUVi4=</base64>
+    </item>
+    <item>
+        <id>7</id>
+        <cat>3. IPTV Smarters Pro</cat>
+        <name>Netflix Theme v2.2.4</name>
+        <source>https://nwgroup.net/downloads/Smarters_VODFlix_4.9.apk</source>
+        <imge>https://i.imgur.com/dLkIGAG.jpg</imge>
+        <desc>Updated: 30-Sep-2021      [42.8mb] With IPTV Smarters Player you can watch Movies, Series from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzY5LjhtYl0gV2l0aCBJUFRWIFNtYXJ0ZXJzIFBybyB5b3UgY2FuIHdhdGNoIExpdmUsIE1vdmllcywgU2VyaWVzLCBhbmQgVFYgQ2F0dXAgZnJvbSBJUFRWIFNlcnZpY2UgUHJvdmlkZXIgb24gQW5kcm9pZCBQaG9uZSwgQW5kcm9pZCBCb3hlcywgRmlyZSBUViBTdGlja3MsIE52aWRpYSBTaGllbGQgVFYu</base64>
+    </item>
+    <item>
+        <id>8</id>
+        <cat>3. IPTV Smarters Pro</cat>
+        <name>Sky Theme v2.2.4</name>
+        <source>https://nwgroup.net/downloads/Smarters_2.2.4-SkyHD.apk</source>
+        <imge>https://i.imgur.com/VnvoS9K.png</imge>
+        <desc>Updated: 18-Feb-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzY5LjhtYl0gV2l0aCBJUFRWIFNtYXJ0ZXJzIFBybyB5b3UgY2FuIHdhdGNoIExpdmUsIE1vdmllcywgU2VyaWVzLCBhbmQgVFYgQ2F0dXAgZnJvbSBJUFRWIFNlcnZpY2UgUHJvdmlkZXIgb24gQW5kcm9pZCBQaG9uZSwgQW5kcm9pZCBCb3hlcywgRmlyZSBUViBTdGlja3MsIE52aWRpYSBTaGllbGQgVFYu</base64>
+    </item>
+    <item>
+        <id>9</id>
+        <cat>3. IPTV Smarters Pro</cat>
+        <name>Virgin Theme v2.2.4</name>
+        <source>https://nwgroup.net/downloads/Smarters_2.2.4(SuperMedia).apk</source>
+        <imge>https://i.imgur.com/vaZbdZw.png</imge>
+        <desc>Updated: 18-Feb-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzY5LjhtYl0gV2l0aCBJUFRWIFNtYXJ0ZXJzIFBybyB5b3UgY2FuIHdhdGNoIExpdmUsIE1vdmllcywgU2VyaWVzLCBhbmQgVFYgQ2F0dXAgZnJvbSBJUFRWIFNlcnZpY2UgUHJvdmlkZXIgb24gQW5kcm9pZCBQaG9uZSwgQW5kcm9pZCBCb3hlcywgRmlyZSBUViBTdGlja3MsIE52aWRpYSBTaGllbGQgVFYu</base64>
+    </item>
+    <item>
+        <id>10</id>
+        <cat>4. TiviMate IPTV Player</cat>
+        <name>Default v2.7.0</name>
+        <source>https://nwgroup.net/downloads/TiviMate_2.7.0.apk</source>
+        <imge>https://i.imgur.com/DYWj2KS.png</imge>
+        <desc>Updated: 05-Apr-2020      [21.0mb] With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNS1BcHItMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzIxLjBtYl0gV2l0aCBUaXZpTWF0ZSB5b3UgY2FuIHdhdGNoIGxpdmUgVFYgY2hhbm5lbHMgZnJvbSB5b3VyIElQVFYgcHJvdmlkZXIgb24gQW5kcm9pZCBzZXQtdG9wIGJveGVzLg==</base64>
+    </item>
+    <item>
+        <id>11</id>
+        <cat>4. TiviMate IPTV Player</cat>
+        <name>Sky Theme v2.1.5</name>
+        <source>https://nwgroup.net/downloads/TiviMate_2.1.5-Sky.apk</source>
+        <imge>https://i.imgur.com/VnvoS9K.png</imge>
+        <desc>Updated: 05-Apr-2020      [21.0mb] With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNS1BcHItMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzIxLjBtYl0gV2l0aCBUaXZpTWF0ZSB5b3UgY2FuIHdhdGNoIGxpdmUgVFYgY2hhbm5lbHMgZnJvbSB5b3VyIElQVFYgcHJvdmlkZXIgb24gQW5kcm9pZCBzZXQtdG9wIGJveGVzLg==</base64>
+    </item>
+    <item>
+        <id>12</id>
+        <cat>4. TiviMate IPTV Player</cat>
+        <name>Virgin Theme v2.1.5</name>
+        <source>https://nwgroup.net/downloads/TiviMate_2.1.5-Virgin.apk</source>
+        <imge>https://i.imgur.com/vaZbdZw.png</imge>
+        <desc>Updated: 05-Apr-2020      [21.0mb] With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNS1BcHItMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzIxLjBtYl0gV2l0aCBUaXZpTWF0ZSB5b3UgY2FuIHdhdGNoIGxpdmUgVFYgY2hhbm5lbHMgZnJvbSB5b3VyIElQVFYgcHJvdmlkZXIgb24gQW5kcm9pZCBzZXQtdG9wIGJveGVzLg==</base64>
+    </item>
+    <item>
+        <id>13</id>
+        <cat>5. XCIPTV Player</cat>
         <name>Default v5.0.1</name>
         <source>https://nwgroup.net/downloads/XCIPTV_5.0.1-Clean.apk</source>
         <imge>https://i.imgur.com/7UlCdBL.png</imge>
@@ -11,8 +143,8 @@
         <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAyMy1BcHItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzg4LjBtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
     </item>
     <item>
-        <id>1</id>
-        <cat>1. XCIPTV Player</cat>
+        <id>14</id>
+        <cat>5. XCIPTV Player</cat>
         <name>Default v4.0.4</name>
         <source>https://nwgroup.net/downloads/XCIPTV_4.0.4-Clean.apk</source>
         <imge>https://i.imgur.com/7UlCdBL.png</imge>
@@ -22,8 +154,8 @@
         <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxOS1EZWMtMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzc5LjhtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
     </item>
     <item>
-        <id>2</id>
-        <cat>1. XCIPTV Player</cat>
+        <id>15</id>
+        <cat>5. XCIPTV Player</cat>
         <name>Netflix Theme v4.0.4</name>
         <source>https://nwgroup.net/downloads/XCIPTV_4.0.4-Netflix.apk</source>
         <imge>https://i.imgur.com/dLkIGAG.jpg</imge>
@@ -33,8 +165,8 @@
         <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNC1Ob3YtMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzc0LjltYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
     </item>
     <item>
-        <id>2</id>
-        <cat>1. XCIPTV Player</cat>
+        <id>16</id>
+        <cat>5. XCIPTV Player</cat>
         <name>Sky Theme v4.0.4</name>
         <source>https://nwgroup.net/downloads/XCIPTV_4.0.4-Sky.apk</source>
         <imge>https://i.imgur.com/VnvoS9K.png</imge>
@@ -44,8 +176,8 @@
         <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNC1Ob3YtMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzc1LjRtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
     </item>
     <item>
-        <id>3</id>
-        <cat>1. XCIPTV Player</cat>
+        <id>17</id>
+        <cat>5. XCIPTV Player</cat>
         <name>Sky Q Theme v4.0.4</name>
         <source>https://nwgroup.net/downloads/XCIPTV_4.0.4-Q.apk</source>
         <imge>https://i.imgur.com/VnvoS9K.png</imge>
@@ -296,129 +428,6 @@
         <vers></vers>
         <vidz></vidz>
         <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAyOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzg5LjNtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
-    <item>
-        <id>1</id>
-        <cat>1. TVHUB VOD </cat>
-        <name> TVHUB CINEMA </name>
-        <source>https://cheapsales4u.com/apps/tvhubcinemapro.apk?dl=0</source>
-        <imge>https://cheapsales4u.com/icons/ic_launcherwhite.png</imge>
-        <desc>Updated: 02-Sep-2022      [97.0mb] TVHUB CINEMA App For Android TV, Android Phone and Android Tab. Easy to use App. Movies, Series, and TV Catup from IPTV Service Provider.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1TZXAtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzk3LjBtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
-    </item>
-    <item>
-        <id>3</id>
-        <cat>2. Recommended Players</cat>
-        <name>iMPlayer v1.8.1.3</name>
-        <source>https://nwgroup.net/downloads/iMPlayer_1.8.1.3.apk</source>
-        <imge>https://play-lh.googleusercontent.com/HV7ok5otTZZ_mQ5m-B2_VES6yNHNz_dPsWfGVBYOSVsInF8-zUeJgH12Kd5tsESF3NQn=s150-rw</imge>
-        <desc>Updated: 14-Feb-2021      [34.0mb] iMPlayer was developed to be the ultimate IPTV player, with unbeatable interface, smoothness and features that will put other apps to shame.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxMi1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzM0LjBtYl0gaU1QbGF5ZXIgd2FzIGRldmVsb3BlZCB0byBiZSB0aGUgdWx0aW1hdGUgSVBUViBwbGF5ZXIsIHdpdGggdW5iZWF0YWJsZSBpbnRlcmZhY2UsIHNtb290aG5lc3MgYW5kIGZlYXR1cmVzIHRoYXQgd2lsbCBwdXQgb3RoZXIgYXBwcyB0byBzaGFtZS4=</base64>
-    </item>
-    <item>
-        <id>4</id>
-        <cat>2. Recommended Players</cat>
-        <name>IPTV Smarters Pro v3.1.2</name>
-        <source>https://nwgroup.net/downloads/IPTV_Smarters_Pro_3.1.2.apk</source>
-        <imge>https://i.imgur.com/K22qDGn.png</imge>
-        <desc>Updated: 02-Nov-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1Ob3YtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICBbNjkuOG1iXSBXaXRoIElQVFYgU21hcnRlcnMgUHJvIHlvdSBjYW4gd2F0Y2ggTGl2ZSwgTW92aWVzLCBTZXJpZXMsIGFuZCBUViBDYXR1cCBmcm9tIElQVFYgU2VydmljZSBQcm92aWRlciBvbiBBbmRyb2lkIFBob25lLCBBbmRyb2lkIEJveGVzLCBGaXJlIFRWIFN0aWNrcywgTnZpZGlhIFNoaWVsZCBUVi4=</base64>
-    </item>
-    <item>
-        <id>5</id>
-        <cat>2. Recommended Players</cat>
-        <name>XCIPTV Player v5.0.1</name>
-        <source>https://nwgroup.net/downloads/XCIPTV_5.0.1-Clean.apk</source>
-        <imge>https://i.imgur.com/T2wF1HS.png</imge>
-        <desc>Updated: 23-Apr-2021      [88.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. XCIPTV comes with two built-in Media Players with Adaptive HLS Streaming. No 3rd party apps or players are required. Simple UI design for easy navigation. XCIPTV is using ExoPlayer and VLC Player. Easy to navigate using Android TV Remote and Dpad. This app can be installed on Android Phone, Tablet and TV.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAyMy1BcHItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzg4LjBtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLiBYQ0lQVFYgaXMgdXNpbmcgRXhvUGxheWVyIGFuZCBWTEMgUGxheWVyLiBFYXN5IHRvIG5hdmlnYXRlIHVzaW5nIEFuZHJvaWQgVFYgUmVtb3RlIGFuZCBEcGFkLiBUaGlzIGFwcCBjYW4gYmUgaW5zdGFsbGVkIG9uIEFuZHJvaWQgUGhvbmUsIFRhYmxldCBhbmQgVFYu</base64>
-    </item>
-    <item>
-        <id>6</id>
-        <cat>3. IPTV Smarters Pro</cat>
-        <name>Default v3.1.2 (Recommended)</name>
-        <source>https://nwgroup.net/downloads/IPTV_Smarters_Pro_3.1.2.apk</source>
-        <imge>https://i.imgur.com/K22qDGn.png</imge>
-        <desc>Updated: 02-Nov-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1Ob3YtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICBbNjkuOG1iXSBXaXRoIElQVFYgU21hcnRlcnMgUHJvIHlvdSBjYW4gd2F0Y2ggTGl2ZSwgTW92aWVzLCBTZXJpZXMsIGFuZCBUViBDYXR1cCBmcm9tIElQVFYgU2VydmljZSBQcm92aWRlciBvbiBBbmRyb2lkIFBob25lLCBBbmRyb2lkIEJveGVzLCBGaXJlIFRWIFN0aWNrcywgTnZpZGlhIFNoaWVsZCBUVi4=</base64>
-    </item>
-    <item>
-        <id>7</id>
-        <cat>3. IPTV Smarters Pro</cat>
-        <name>Netflix Theme v2.2.4</name>
-        <source>https://nwgroup.net/downloads/Smarters_VODFlix_4.9.apk</source>
-        <imge>https://i.imgur.com/dLkIGAG.jpg</imge>
-        <desc>Updated: 30-Sep-2021      [42.8mb] With IPTV Smarters Player you can watch Movies, Series from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzY5LjhtYl0gV2l0aCBJUFRWIFNtYXJ0ZXJzIFBybyB5b3UgY2FuIHdhdGNoIExpdmUsIE1vdmllcywgU2VyaWVzLCBhbmQgVFYgQ2F0dXAgZnJvbSBJUFRWIFNlcnZpY2UgUHJvdmlkZXIgb24gQW5kcm9pZCBQaG9uZSwgQW5kcm9pZCBCb3hlcywgRmlyZSBUViBTdGlja3MsIE52aWRpYSBTaGllbGQgVFYu</base64>
-    </item>
-    <item>
-        <id>8</id>
-        <cat>3. IPTV Smarters Pro</cat>
-        <name>Sky Theme v2.2.4</name>
-        <source>https://nwgroup.net/downloads/Smarters_2.2.4-SkyHD.apk</source>
-        <imge>https://i.imgur.com/VnvoS9K.png</imge>
-        <desc>Updated: 18-Feb-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzY5LjhtYl0gV2l0aCBJUFRWIFNtYXJ0ZXJzIFBybyB5b3UgY2FuIHdhdGNoIExpdmUsIE1vdmllcywgU2VyaWVzLCBhbmQgVFYgQ2F0dXAgZnJvbSBJUFRWIFNlcnZpY2UgUHJvdmlkZXIgb24gQW5kcm9pZCBQaG9uZSwgQW5kcm9pZCBCb3hlcywgRmlyZSBUViBTdGlja3MsIE52aWRpYSBTaGllbGQgVFYu</base64>
-    </item>
-    <item>
-        <id>9</id>
-        <cat>3. IPTV Smarters Pro</cat>
-        <name>Virgin Theme v2.2.4</name>
-        <source>https://nwgroup.net/downloads/Smarters_2.2.4(SuperMedia).apk</source>
-        <imge>https://i.imgur.com/vaZbdZw.png</imge>
-        <desc>Updated: 18-Feb-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzY5LjhtYl0gV2l0aCBJUFRWIFNtYXJ0ZXJzIFBybyB5b3UgY2FuIHdhdGNoIExpdmUsIE1vdmllcywgU2VyaWVzLCBhbmQgVFYgQ2F0dXAgZnJvbSBJUFRWIFNlcnZpY2UgUHJvdmlkZXIgb24gQW5kcm9pZCBQaG9uZSwgQW5kcm9pZCBCb3hlcywgRmlyZSBUViBTdGlja3MsIE52aWRpYSBTaGllbGQgVFYu</base64>
-    </item>
-    <item>
-        <id>10</id>
-        <cat>4. TiviMate IPTV Player</cat>
-        <name>Default v2.7.0</name>
-        <source>https://nwgroup.net/downloads/TiviMate_2.7.0.apk</source>
-        <imge>https://i.imgur.com/DYWj2KS.png</imge>
-        <desc>Updated: 05-Apr-2020      [21.0mb] With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNS1BcHItMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzIxLjBtYl0gV2l0aCBUaXZpTWF0ZSB5b3UgY2FuIHdhdGNoIGxpdmUgVFYgY2hhbm5lbHMgZnJvbSB5b3VyIElQVFYgcHJvdmlkZXIgb24gQW5kcm9pZCBzZXQtdG9wIGJveGVzLg==</base64>
-    </item>
-    <item>
-        <id>11</id>
-        <cat>4. TiviMate IPTV Player</cat>
-        <name>Sky Theme v2.1.5</name>
-        <source>https://nwgroup.net/downloads/TiviMate_2.1.5-Sky.apk</source>
-        <imge>https://i.imgur.com/VnvoS9K.png</imge>
-        <desc>Updated: 05-Apr-2020      [21.0mb] With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNS1BcHItMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzIxLjBtYl0gV2l0aCBUaXZpTWF0ZSB5b3UgY2FuIHdhdGNoIGxpdmUgVFYgY2hhbm5lbHMgZnJvbSB5b3VyIElQVFYgcHJvdmlkZXIgb24gQW5kcm9pZCBzZXQtdG9wIGJveGVzLg==</base64>
-    </item>
-    <item>
-        <id>12</id>
-        <cat>4. TiviMate IPTV Player</cat>
-        <name>Virgin Theme v2.1.5</name>
-        <source>https://nwgroup.net/downloads/TiviMate_2.1.5-Virgin.apk</source>
-        <imge>https://i.imgur.com/vaZbdZw.png</imge>
-        <desc>Updated: 05-Apr-2020      [21.0mb] With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNS1BcHItMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzIxLjBtYl0gV2l0aCBUaXZpTWF0ZSB5b3UgY2FuIHdhdGNoIGxpdmUgVFYgY2hhbm5lbHMgZnJvbSB5b3VyIElQVFYgcHJvdmlkZXIgb24gQW5kcm9pZCBzZXQtdG9wIGJveGVzLg==</base64>
-    </item>
-    <item>
-
     </item>
     <item>
         <id>40</id>
