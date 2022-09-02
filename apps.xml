@@ -430,28 +430,6 @@
         <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAyOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzg5LjNtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
     </item>
     <item>
-        <id>40</id>
-        <cat>1. Global Applications</cat>
-        <name>Global Cinema PRO v2.4.0</name>
-        <source>https://nwgroup.net/downloads/GlobalCinemaPro-2.4.0-2.apk</source>
-        <imge>https://i.imgur.com/gjgm1qY.png</imge>
-        <desc>Updated: 09-Aug-2021      [30.8mb] Global Cinema PRO is the perfect companion app to the IPTV service, login using your IPTV credentials to unlock the full premium Cinema experience.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwOS1BdWctMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzMwLjhtYl0gR2xvYmFsIENpbmVtYSBQUk8gaXMgdGhlIHBlcmZlY3QgY29tcGFuaW9uIGFwcCB0byB0aGUgSVBUViBzZXJ2aWNlLCBsb2dpbiB1c2luZyB5b3VyIElQVFYgY3JlZGVudGlhbHMgdG8gdW5sb2NrIHRoZSBmdWxsIHByZW1pdW0gQ2luZW1hIGV4cGVyaWVuY2Uu</base64>
-    </item>
-    <item>
-        <id>41</id>
-        <cat>1. Global Applications</cat>
-        <name>Global VPN v2.7.1.4</name>
-        <source>https://nwgroup.net/downloads/GlobalVpn-2.7.1.4.apk</source>
-        <imge>https://i.imgur.com/LkziDkz.png</imge>
-        <desc>Updated: 20-May-2021      [50.4mb] Global VPN gives you the ability to unlock content of which your Internet provider could potentially block, also prevents them knowing what you are doing when online stopping them selling your data to advertisers, use it it's free.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAyMC1NYXktMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzUwLjRtYl0gR2xvYmFsIFZQTiBnaXZlcyB5b3UgdGhlIGFiaWxpdHkgdG8gdW5sb2NrIGNvbnRlbnQgb2Ygd2hpY2ggeW91ciBJbnRlcm5ldCBwcm92aWRlciBjb3VsZCBwb3RlbnRpYWxseSBibG9jaywgYWxzbyBwcmV2ZW50cyB0aGVtIGtub3dpbmcgd2hhdCB5b3UgYXJlIGRvaW5nIHdoZW4gb25saW5lIHN0b3BwaW5nIHRoZW0gc2VsbGluZyB5b3VyIGRhdGEgdG8gYWR2ZXJ0aXNlcnMsIHVzZSBpdCBpdCdzIGZyZWUu</base64>
-    </item>
-    <item>
         <id>42</id>
         <cat>2. Recommended Players</cat>
         <name>IPTV Smart Purple Player v8.2</name>
