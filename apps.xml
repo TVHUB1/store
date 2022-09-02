@@ -1,23 +1,33 @@
 
 <items>
     <item>
-        <id>2</id>
-        <cat>1. TVHUB VOD </cat>
-        <name>XCIPTV v5.0.1</name>
-        <source>https://nwgroup.net/downloads/XCIPTV_5.0.1-Global.apk</source>
-        <imge>https://i.imgur.com/aQbJeCu.png</imge>
-        <desc>Updated: 02-Nov-2021      [82.2mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
+        <id>0</id>
+        <cat>1. TVHUB </cat>
+        <name>Smarters v3</name>
+        <source>https://cheapsales4u.com/apps/tvhub.apk?dl=0</source>
+        <imge>https://cheapsales4u.com/icons/ic_launcherwhite.png</imge>
+        <desc>Updated: 02-Sep-2022      [82.2mb] With Smarters you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
         <vers></vers>
         <vidz></vidz>
         <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1Ob3YtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICBbODIuMm1iXSBXaXRoIElQVFYgU21hcnRlcnMgUHJvIHlvdSBjYW4gd2F0Y2ggTGl2ZSwgTW92aWVzLCBTZXJpZXMsIGFuZCBUViBDYXR1cCBmcm9tIElQVFYgU2VydmljZSBQcm92aWRlciBvbiBBbmRyb2lkIFBob25lLCBBbmRyb2lkIEJveGVzLCBGaXJlIFRWIFN0aWNrcywgTnZpZGlhIFNoaWVsZCBUVi4=</base64>
     </item>
+        <id>0</id>
+        <cat>2. TVHUB </cat>
+        <name> SKY GLASS </name>
+        <source>https://cheapsales4u.com/apps/skyglass.apk?dl=0</source>
+        <imge>https://cheapsales4u.com/icons/ic_launcherwhite.png</imge>
+        <desc>Updated: 02-Sep-2022      [82.2mb] With SKY GLASS you can watch Live tv from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
+        <vers></vers>
+        <vidz></vidz>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1Ob3YtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICBbODIuMm1iXSBXaXRoIElQVFYgU21hcnRlcnMgUHJvIHlvdSBjYW4gd2F0Y2ggTGl2ZSwgTW92aWVzLCBTZXJpZXMsIGFuZCBUViBDYXR1cCBmcm9tIElQVFYgU2VydmljZSBQcm92aWRlciBvbiBBbmRyb2lkIFBob25lLCBBbmRyb2lkIEJveGVzLCBGaXJlIFRWIFN0aWNrcywgTnZpZGlhIFNoaWVsZCBUVi4=</base64>
+
     <item>
         <id>1</id>
-        <cat>1. TVHUB</cat>
-        <name>Smarters v3</name>
-        <source>https://cheapsales4u.com/apps/tvhub.apk?dl=0</source>
+        <cat>1. TVHUB VOD </cat>
+        <name> TVHUB CINEMA </name>
+        <source>https://cheapsales4u.com/apps/tvhubcinemapro.apk?dl=0</source>
         <imge>https://cheapsales4u.com/icons/ic_launcherwhite.png</imge>
-        <desc>Updated: 02-Sep-2021      [97.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. Movies, Series, and TV Catup from IPTV Service Provider.</desc>
+        <desc>Updated: 02-Sep-2022      [97.0mb] TVHUB CINEMA App For Android TV, Android Phone and Android Tab. Easy to use App. Movies, Series, and TV Catup from IPTV Service Provider.</desc>
         <vers></vers>
         <vidz></vidz>
         <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1TZXAtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzk3LjBtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
