@@ -2,10 +2,10 @@
 <items>
     <item>
         <id>1</id>
-        <cat>1.TVHUB Applications</cat>
-        <name>Smarters v3</name>
-        <source>https://github.com/TVHUB1/store/raw/main/TVHUB%20Store_2.2.apk</source>
-        <imge>https://i.imgur.com/64wJTLU.png</imge>
+        <cat>1. Global Applications</cat>
+        <name>XCIPTV v5.0.1</name>
+        <source>https://nwgroup.net/downloads/XCIPTV_5.0.1-Global.apk</source>
+        <imge>https://i.imgur.com/aQbJeCu.png</imge>
         <desc>Updated: 02-Nov-2021      [82.2mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
         <vers></vers>
         <vidz></vidz>
